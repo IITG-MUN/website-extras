@@ -1,0 +1,240 @@
+# - 
+#   id: 0
+#   name: "Param"
+#   surname: "Kothari"
+#   title: "Secretary General"
+#   thumbnailUrl: param.jpg
+#   description: "Having been a part of the international press before, this man is the one who makes the team tick. Zealous, industrious and punctual to the point where it’s annoying. A pun lord in his free time, Param’s love for sleep can only be surpassed by his love for football."
+#   team: true
+# - 
+#   id: 1
+#   name: "Akash"
+#   surname: "Sharma"
+#   title: "Chief of Staff"
+#   thumbnailUrl: akash.jpg
+#   description: "The multi-tasking maestro of the team, his energy and vigour are unmatched. From working in conference affairs to then shifting his focus to agenda research, Akash is literally the literary backbone of the team. Already well versed with politics and international relations, his thirst for knowledge keeps adding to his platter. In his free time, (if he gets any) Akash loves to travel and play table tennis."
+#   team: true
+# - 
+#   id: 2
+#   name: "Shubham"
+#   surname: "Salunke"
+#   title: "Director Outreach"
+#   thumbnailUrl: shubham.jpg
+#   description: "Working diligently in the Conference affairs, Shubham never shies away from responsibilities. Give him any task and he will execute it with utmost punctuality and enthusiasm. Apart from his tireless zeal, he is an avid football enthusiast as well as an immaculate player."
+#   team: true
+# - 
+#   id: 3
+#   name: "Radhika"
+#   surname: "Goyal"
+#   title: "Director International Press"
+#   thumbnailUrl: radhika.jpg
+#   description: "Most people would describe her as “quite quiet”, but it’s important you get “quite quiet” right because she is a vicious grammar Nazi. Singing and astronomy are her favourite pastimes and she is always down for a spontaneous jam session."
+#   team: true
+# -
+#   id: 4
+#   name: "Tahir"
+#   surname: "D'Mello"
+#   title: "USG Administration"
+#   thumbnailUrl: tahir.jpg
+#   description: ""
+#   team: true
+# -
+#   id: 5
+#   name: "Vishwaprasanna"
+#   surname: "Hariharan"
+#   title: "USG Conference Affairs"
+#   thumbnailUrl: vishwa.jpg
+#   description: ""
+#   team: true
+# -
+#   id: 6
+#   name: "Neha"
+#   surname: "Dargar"
+#   title: "USG Creative Content"
+#   thumbnailUrl: neha.jpg
+#   description: ""
+#   team: true
+# - 
+#   id: 7
+#   name: "Vishnu"
+#   surname: "Suresh"
+#   title: "USG International Press"
+#   thumbnailUrl: vishnu.jpg
+#   description: ""
+#   team: true
+# - 
+#   id: 8
+#   name: "Revanth"
+#   surname: "Turlapati"
+#   title: "Deputy Secretary General"
+#   thumbnailUrl: revanth.jpg
+#   description: ""
+#   team: true
+# - 
+#   id: 9
+#   name: "Manasi"
+#   surname: "Medha"
+#   title: "USG Personal Relations and Branding"
+#   thumbnailUrl: manasi.jpg
+#   description: ""
+#   team: true
+# -
+#   id: 10
+#   name: "Ayush"
+#   surname: "Jain"
+#   title: "USG Technical Operations"
+#   thumbnailUrl: ayush.jpg
+#   description: ""
+#   team: true
+# -
+#   id: 11
+#   name: "Siddhartha"
+#   surname: "Jain"
+#   title: "USG Technical Operations"
+#   thumbnailUrl: siddhartha.jpg
+#   description: ""
+#   team: true 
+- 
+#   id: 4
+#   name: "Sangam"
+#   surname: "Sharma"
+#   title: "USG Public Relations"
+#   thumbnailUrl: sangam.jpg
+#   description: "Lazier than you could ever be, his devil-may-care attitude makes him an accidental clown. With a newfound zeal to explore himself, he involves himself in whatever opportunity pops up. Though he is a typical cricket fan, he also takes a lot of interest in biking."
+#   team: true
+# - 
+#   id: 5
+#   name: "Sujal"
+#   surname: "Ranjan"
+#   title: "Director Logistics"
+#   thumbnailUrl: sujal.jpg
+#   description: "Sujal is the guy for every job, whether it’s research for the agendae or strategic extensive branding. Seemingly a bit naive at first glance, he has vast experience as an administrator. His dedication towards fulfilling every task thrown at him is unparalleled. An avid cricket and anime fan, he has a good hand with the ball (no pun intended)."
+#   team: true
+# - 
+#   id: 6
+#   name: "Vijayant"
+#   surname: "Balhara"
+#   title: "Director Branding"
+#   thumbnailUrl: balhara.jpg
+#   description: "Vijayant, the astronomy wizard of our college, is quite the ladies man. You're sure to be at the edge of your seats when this one strums a guitar. He's really one to stand out in a crowd (given how tall he is, of course). A self-proclaimed weirdo, Vijayant plays a wide spectrum of sports skilfully, football and tennis for starters. Also, he has a black belt in Karate so you kinda don't want to mess with him."
+#   team: true
+# - 
+#   id: 8
+#   name: "Srishti"
+#   surname: "Malaviya"
+#   title: "Director Creative Logisitics"
+#   thumbnailUrl: srishti.jpg
+#   description: "A designer to the literal core, Srishti is the team’s supply of adorable awkwardness. A quirky female, on whom you may count for an outburst of laughter when you ask her for advice; she is a perfectionist - to the point where it is scary. Contrary to what you might believe, she’s good at basketball. Dwelling on the aesthetic aspect of whatever she finds, she likes to watch the moon move."
+#   team: true
+# - 
+#   id: 9
+#   name: "Prasanna"
+#   surname: "Venkatesh"
+#   title: "Director Creative Logisitics"
+#   thumbnailUrl: prasanna.jpg
+#   description: "The latest addition to the family, Prasanna has an innate swagger that's hard to miss as well as notice. Silent and a bit shy, he's a very creative guy. He's diligent with his work and more punctual than most. An ardent anime fan, he's quite a gamer too. Most unconventional of all, he is a rapper, and you just might be in luck to hear him go."
+#   team: true
+# - 
+#   id: 10
+#   name: "Vedant"
+#   surname: "Chakravadhanula"
+#   title: "Director Technical Operations"
+#   thumbnailUrl: vc.jpg
+#   description: "A programming genius, Vedant “the Nice guy” Chakravadhanula a.k.a. “VC” is a part of the Webops team at IITG MUN, and is probably the most humble person you’ll ever meet. He has an amazing sense of humour which entices both men and women. Vedant has a striking resemblance to the legendary musician, Snoop Dogg, physically and they share the same passions too. Despite of that the team would be incomplete without him. Vedant likes going an extra mile everyday, especially on Wednesdays"
+#   team: true
+# - 
+#   id: 11
+#   name: "Vrishank"
+#   surname: "Bhardwaj"
+#   title: "Director Technical Operations"
+#   thumbnailUrl: vrishank.jpg
+#   description: "A god in machine learning and a proud Delhite, Vrishank is a part of the Webops team, and is a surprisingly eccentric person who loves to procrastinate. His puns aren't punny at all so one should steer clear of him at social gatherings to avoid mental trauma. His talents include swimming, coding and eating copious amounts of food. He enjoys reading and has a peculiar interest in the suez canal."
+#   team: true
+# - 
+#   id: 12
+#   name: "Tejal"
+#   surname: "Agarwal"
+#   title: "USG Administration"
+#   thumbnailUrl: tejal.jpg
+#   description: "The unquestionable Mafia champion of the team, you just cannot defeat Tejal in an argument. Always with an amusing reply on the tip of her tongue, her innate smartness is conspicuous in her work as writer. An intense blend of acute reasoning and flawless language, her articles are a joy to read.  Although her witty retorts might prove fatal at times, Tejal is the most convivial person you’ll ever meet."
+#   team: true
+# - 
+#   id: 13
+#   name: "Shristi"
+#   surname: "Chumber"
+#   title: "Deputy Secretary General"
+#   thumbnailUrl: shristi.jpg
+#   description: "A really vocal member of the team, Shrishti is fashion police of the highest order. She’s great with graphic design, and is a social media veteran. An avid reader in her spare time, Shristi is someone that can keep a conversation going. Needless to say that she is great with delegates and has previously worked on delegate affairs."
+#   team: true
+# - 
+#   id: 14
+#   name: "Sai"
+#   surname: "Rishi"
+#   title: "Deputy Director General"
+#   thumbnailUrl: rishi.jpg
+#   description: "The 'know-it-all' of the group, Rishi's immense expertise on general knowledge has no bounds. His knowledge, smartness and marvelous communication skills is what makes him a great debater. Playing the piano and the guitar are just a few more of the countless things under his arsenal."
+#   team: true
+# - 
+#   id: 15
+#   name: "Shubhang"
+#   surname: "Shukla"
+#   title: "Director General"
+#   thumbnailUrl: shukla.jpg
+#   description: "The undisputed quizzing champion of IIT Guwahati, Shubhang is not someone you'd want to challenge when it comes to knowing facts and figure. His keen interest in football is reflected in the way he idolizes Lionel Messi and he thoroughly enjoys reading. There's definitely so much more to him than what meets the eye. Above all, the quality one would admire the most is how he'll always go out of his way to help someone."
+#   team: true
+# - 
+#   id: 16
+#   name: "Sanchit"
+#   surname: "Jhunjhunwala"
+#   title: "USG Conference Affairs"
+#   thumbnailUrl: sanchit.jpg
+#   description: "For three years, Sanchit has been a pillar among the many, for the team. This hard working chap, with a profound knowledge of international relations and political dynamics has a zest for expression and writing. His acumen at managing teams makes him a leader to follow. Work aside, he loves stringing rhymes on his violin and idolizes Jonathan Nolan."
+#   team: true
+# - 
+#   id: 17
+#   name: "Shwetank"
+#   surname: "Panwar"
+#   title: "USG International Press"
+#   thumbnailUrl: shwetank.jpg
+#   description: "A tech and robotics geek, Shwetank is an exemplary engineer. Brilliant with the keyboard, whether it's writing insightful articles or running hefty algorithms. His profound grasp of world politics makes him an invaluable part of our team. Shwetank has a keen interest in sci-fi books and thrillers, especially ones revolving around narcotics.  When stumbling onto doors leading to ingenious agendae, he's the one who knocks."
+#   team: true
+# - 
+#   id: 18
+#   name: "Prathyoom"
+#   surname: "Sridharan"
+#   title: "USG Technical Operations"
+#   thumbnailUrl: prathyoom.jpg
+#   description: "The team’s techie, Prathyoom is a gamer at heart and has spent an unhealthy amount of time playing D.O.T.A. In his free time, he loves to code, speed cube and binge on anime. Needless to say, Prathyoom is the nerd of the team and is our go to for all things tech."
+#   team: true
+# - 
+#   id: 19
+#   name: "Chinmaya"
+#   surname: "Kishore"
+#   title: "USG Creative Content"
+#   thumbnailUrl: chinmaya.jpg
+#   description: ""
+#   team: true
+# - 
+#   id: 20
+#   name: "Harit"
+#   surname: "Gupta"
+#   title: "USG Technical Operations"
+#   thumbnailUrl: harit.jpg
+#   description: ""
+#   team: true
+# - 
+#   id: 21
+#   name: "Arav"
+#   surname: "Garg"
+#   title: "USG Delegate Affairs"
+#   thumbnailUrl: arav.jpg
+#   description: ""
+#   team: true
+# - 
+#   id: 22
+#   name: "Rohan"
+#   surname: "Mangatt"
+#   title: "USG Branding"
+#   thumbnailUrl: rohan.jpg
+#   description: ""
+#   team: true
